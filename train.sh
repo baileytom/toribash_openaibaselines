@@ -1,1 +1,1 @@
-python -m baselines.run --alg=ppo2 --env=Toribash-Custom-v0 --num_timesteps=1e5 --network mlp --save_path=~/models/self_destruct
+python -m baselines.run --alg=ppo2 --env=Toribash-Custom-v0 --num_timesteps=1e6 --network mlp --save_path=~/models/self_destruct
