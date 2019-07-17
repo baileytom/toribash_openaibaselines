@@ -1,0 +1,1 @@
+python -m baselines.run --alg=ppo2 --env=Toribash-Custom-v0 --num_timesteps=0 --network mlp --load_path=~/models/self_destruct --play
